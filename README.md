@@ -23,3 +23,5 @@ This project demonstrates how to deploy and secure a production-ready Linux serv
 - `/docs` → Architecture and security documentation
 - `/screenshots` → Setup evidence
 - `README.md` → Project explanation
+
+- Project initialization complete.
